@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+    height: 40vh;
+    align-items: center;
+}
+
+.emailButton {
+    position: relative;
+    top: 90px;
+
+    width: 400px;
+    height: 150px;
+    border-radius: 70px;
+}
