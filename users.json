@@ -1,0 +1,20 @@
+[
+    {
+        "email": "firstemail@gmail.com",
+        "id": "123gg123",
+
+        "username": "testusernum1",
+        "password": "iliketrains",
+
+        "dateReg": "asdsad"
+    },
+    {
+        "email": "secondemail@gmail.com",
+        "id": "newid",
+
+        "username": "user2",
+        "password": "sheeesh",
+
+        "dateReg": ""
+    }
+]
